@@ -26,7 +26,7 @@ const Almoço = () =>{
             </li>
             <li className='dishes'>
                 <img src={prato} alt="" className="comida"/>
-                <span>Paella valenciana</span>
+                <span>Paella Valenciana</span>
             </li>
         </ul>
     </>
