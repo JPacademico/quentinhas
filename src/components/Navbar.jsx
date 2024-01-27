@@ -10,16 +10,16 @@ const Navbar = ({show}) => {
                     <Link to="/" className='active'>Mais Pedidos</Link>
                 </li>
                 <li>
-                    <Link to="/">Café da Manhã</Link>
+                    <Link to="/cafe">Café da Manhã</Link>
                 </li>
                 <li>
-                    <Link to="/About">Almoço</Link>
+                    <Link to="/Almoço">Almoço</Link>
                 </li>
                 <li>
-                    <Link to="/">Janta</Link>
+                    <Link to="/janta">Janta</Link>
                 </li>
                 <li>
-                    <Link to="/">Bebidas</Link>
+                    <Link to="/bebidas">Bebidas</Link>
                 </li>
             </ul>
         </div>
