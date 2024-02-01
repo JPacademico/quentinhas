@@ -1,7 +1,3 @@
-import panqueca from '../assets/panqueca.jpg'
-import foccaccia from '../assets/foccaccia.jpg'
-import brusquetta from '../assets/Brusquetta.jpg'
-import tofu from '../assets/tofu.jpg'
 
 
 const Cafe = () =>{

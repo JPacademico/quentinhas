@@ -1,7 +1,4 @@
-import prato from '../assets/comida01.jpg'
-import ratatouille from '../assets/ratatule.jpg'
-import brusquetta from '../assets/Brusquetta.jpg'
-import canelone from '../assets/canelone.jpg'
+
 
 
 const Home = () =>{

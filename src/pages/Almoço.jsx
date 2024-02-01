@@ -1,7 +1,4 @@
-import prato from '../assets/comida01.jpg'
-import lasanha from '../assets/lazanha.jpg'
-import feijoada from '../assets/feijoada.jpg'
-import moqueca from '../assets/moqueca.jpg'
+
 
 const Almoço = () =>{
     return (

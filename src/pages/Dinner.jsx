@@ -1,7 +1,4 @@
-import pizza from '../assets/pizza.jpg'
-import hamburgue from '../assets/hamburgue.jpg'
-import poke from '../assets/poke.jpg'
-import yakisoba from '../assets/yakisoba.jpeg'
+
 
 
 const Dinner = () =>{

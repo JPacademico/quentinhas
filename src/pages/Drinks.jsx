@@ -1,7 +1,3 @@
-import chocolate from '../assets/chocolate.jpg'
-import uva from '../assets/uva.jpg'
-import abacaxi from '../assets/abacaxi.png'
-import vinho from '../assets/vinho.jpg'
 
 
 const Drinks = () =>{
