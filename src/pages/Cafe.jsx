@@ -11,22 +11,22 @@ const Cafe = () =>{
         
             <ul className='food-list'>
                 <li className='dishes'>
-                    <img src={panqueca} alt="" className="comida"/>
+                    <img src="https://i.imgur.com/g6OxhSr.jpeg" alt="" className="comida"/>
                     <span>Panqueca</span>
                 </li>
                 <li className='dishes'>
-                    <img src={foccaccia} alt="" className="comida"/>
+                    <img src="https://i.imgur.com/0tXLgZz.jpeg" alt="" className="comida"/>
                     <span>Foccaccia</span>
                 </li>
             </ul>
 
             <ul className='food-list'>
                 <li className='dishes'>
-                    <img src={brusquetta} alt="" className="comida"/>
+                    <img src="https://i.imgur.com/pQfvIpR.jpeg" alt="" className="comida"/>
                     <span>Brusquetta</span>
                 </li>
                 <li className='dishes'>
-                    <img src={tofu} alt="" className="comida"/>
+                    <img src="https://i.imgur.com/e76Kxam.jpeg" alt="" className="comida"/>
                     <span>Tofu</span>
                 </li>
             </ul>

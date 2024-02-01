@@ -11,22 +11,22 @@ const Dinner = () =>{
         
             <ul className='food-list'>
                 <li className='dishes'>
-                    <img src={pizza} alt="" className="comida"/>
+                    <img src="https://i.imgur.com/BEIum8K.jpeg" alt="" className="comida"/>
                     <span>Pizza</span>
                 </li>
                 <li className='dishes'>
-                    <img src={poke} alt="" className="comida"/>
+                    <img src="https://i.imgur.com/KG8Eahi.jpeg" alt="" className="comida"/>
                     <span>Poke</span>
                 </li>
             </ul>
 
             <ul className='food-list'>
                 <li className='dishes'>
-                    <img src={hamburgue} alt="" className="comida"/>
+                    <img src="https://i.imgur.com/MeiXWBW.jpeg" alt="" className="comida"/>
                     <span>Hamburguer</span>
                 </li>
                 <li className='dishes'>
-                    <img src={yakisoba} alt="" className="comida"/>
+                    <img src="https://i.imgur.com/QI5zSuj.jpeg" alt="" className="comida"/>
                     <span>Yakisoba</span>
                 </li>
             </ul>
